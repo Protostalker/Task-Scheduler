@@ -1,0 +1,10 @@
+{
+  "name": "taskflow-push-worker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "ioredis": "^5.6.0",
+    "web-push": "^3.6.7"
+  }
+}
