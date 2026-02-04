@@ -15,7 +15,7 @@ docker compose up --build
 ```
 
 2) Wait for containers to be healthy, then open:
-- Web UI: http://localhost:9080
+- Web UI: http://localhost:8002
 - API: internal only (web reverse-proxies /api to the api container). Health: /api/health
 
 3) Bootstrap super admin
